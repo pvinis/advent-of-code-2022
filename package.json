@@ -1,0 +1,12 @@
+{
+  "name": "aoc-22",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0",
+    "remeda": "^1.3.0"
+  }
+}
